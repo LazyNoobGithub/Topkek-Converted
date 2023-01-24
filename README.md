@@ -2,7 +2,8 @@
 A future script ive been working on. Most scripts will be posted here!
 
 # Current Scripts
-- Scripts {13}
+- Scripts {16}
+- Planned Scripts {15}
 
 # Converts
 Currently, there is only one convert.
